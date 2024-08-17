@@ -1,5 +1,6 @@
-print("russia's gov")
-<<<<<<< HEAD
-print("really makes sense")
-=======
->>>>>>> refs/remotes/origin/main
+print("простое вычисление держите")
+print("введите количество красных рыб")
+x = int(input())
+print("введите количество голубых рыб")
+y = int(input())
+print ("пожалуйста,", x + y, "рыбов получаете" )
